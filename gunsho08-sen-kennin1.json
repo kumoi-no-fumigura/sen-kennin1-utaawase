@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sen-kennin1-utaawase",
  "yomi": "せんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "撰歌合（五十番）",
+  "era": "建仁元年（1201）8月15日",
+  "author": "主催 後鳥羽院／判者 藤原俊成（釈阿）",
+  "desc": "八月十五夜に月の題ばかりで歌を選んで番えた五十番の撰歌合。月多秋友・月前松風・湖上月明・河月似氷などの題で、良経・俊成卿女・宮内卿・定家・長明・秀能らが詠み、釈阿が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
